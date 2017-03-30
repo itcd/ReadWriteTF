@@ -1,5 +1,5 @@
 # ReadTF
-Read and write transfer functions in Voreen XML format using MATLAB.
+Read and write transfer function files in Voreen XML format using MATLAB.
 
 ![a transfer function](tf.png)
 
